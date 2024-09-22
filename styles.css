@@ -1,1 +1,11 @@
-background-color: #CD9FCC
+body{
+    background-color: #CD9FCC
+}
+h1{
+   text-align: center; 
+   font-family:'Times New Roman', Times, serif;
+
+   color: #867dd6;
+
+
+}
