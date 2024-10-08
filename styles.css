@@ -9,3 +9,11 @@ h1{
 
 
 }
+projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
+.project {
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: rgb(99, 80, 168); 
+border-radius: 25%;
+}
