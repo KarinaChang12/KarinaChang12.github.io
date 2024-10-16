@@ -23,6 +23,7 @@ margin: 10px;
 border: 2px solid rgb(98, 55, 128); 
 display: block;
 margin: auto;
+text-align: center;
 }
 a { 
     text-decoration: none;
