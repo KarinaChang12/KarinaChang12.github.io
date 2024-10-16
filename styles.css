@@ -7,7 +7,9 @@ h1{
    font-family:'Times New Roman', Times, serif;
    color: #4439ab;
    border: rgb(87, 54, 136);
+    border-style: double;
    border-radius: 15px;
+    border-width: 10px;
    paddings: 5px;
    
 }
