@@ -1,16 +1,14 @@
 
-
 body{
     background-color: #CD9FCC
 }
 h1{
    text-align: center; 
    font-family:'Times New Roman', Times, serif;
-   color: #867dd6;
-    border: rgb(87, 54, 136);
-    border-radius: 15px;
-    paddings: 5px;
-
+   color: #4439ab;
+   border: rgb(87, 54, 136);
+   border-radius: 15px;
+   paddings: 5px;
    
 }
 .projects { display:flex; flex-wrap:wrap; } 
@@ -18,13 +16,13 @@ h1{
 width: 30%;
 margin: 10px;
 padding: 20px 10px;
-background: rgb(126, 92, 164); /
+background: rgb(51, 35, 70); /
 border-radius: 25%;
 .project img{
 width: 30%;
 height: auto;
 margin: 10px;
-border: 2px solid rgb(98, 55, 128); 
+border: 2px solid rgb(58, 31, 78); 
 display: block;
 margin: auto;
 text-align: center;
@@ -38,6 +36,9 @@ a {
     margin: 15px;
     }
 
+
+}
+}
 
 }
 }
