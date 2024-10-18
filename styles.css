@@ -7,9 +7,7 @@ h1{
    font-family:'Times New Roman', Times, serif;
    color: #4439ab;
    border: rgb(87, 54, 136);
-    border-style: double;
    border-radius: 15px;
-    border-width: 10px;
    paddings: 5px;
    
 }
@@ -21,24 +19,24 @@ padding: 20px 10px;
 background: rgb(51, 35, 70); /
 border-radius: 25%;
 .project img{
-width: 30%;
-height: auto;
-margin: 10px;
-border: 2px solid rgb(58, 31, 78); 
-display: block;
-margin: auto;
-text-align: center;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(64, 37, 82); 
+    display: block;
+    margin: auto;
+    }
 }
 a { 
     text-decoration: none;
-    color: rgb(114, 84, 114);
+    color: rgb(49, 31, 49);
     }
     .project p { 
     text-align: center;
     margin: 15px;
     }
 
-
+}
 }
 }
 
