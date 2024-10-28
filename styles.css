@@ -8,7 +8,7 @@ h1{
    color: #4439ab;
    border: rgb(87, 54, 136);
    border-radius: 15px;
-   paddings: 5px;
+   padding: 5px;
    
 }
 .projects { display:flex; flex-wrap:wrap; } 
