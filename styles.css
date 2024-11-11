@@ -7,6 +7,7 @@ h1{
    font-family:'Times New Roman', Times, serif;
    color: #4439ab;
    border: rgb(87, 54, 136);
+   border-style: groove;
    border-radius: 15px;
    padding: 5px;
    
