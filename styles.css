@@ -12,6 +12,16 @@ h1{
    padding: 5px;
    
 }
+h2{
+    color:
+    width: 30%;
+    margain: 40px;
+    padding: 5px 5px;
+    background: #493c6b;
+    border-radius 0%;
+    
+}
+
 .projects { display:flex; flex-wrap:wrap; } 
 .project {
 width: 30%;
