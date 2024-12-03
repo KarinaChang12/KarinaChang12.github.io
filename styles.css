@@ -68,6 +68,14 @@ a {
     border-radius: 25%;
     border: 2px solid rgb(126, 14, 201);
     }
+.skills{
+width: 30%;
+    margain: 10px;
+    padding: 20px 10px;
+    background: (78, 50, 111);
+    border-radius: 25%;
+}
+
 }
 }
 
