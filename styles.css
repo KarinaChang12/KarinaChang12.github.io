@@ -29,6 +29,7 @@ p{
     color: #ffffff;
     background: #3c2d4d;
     border-radius: 0%;
+    text-align: center;
 }
 
 .projects { display:flex; flex-wrap:wrap; } 
