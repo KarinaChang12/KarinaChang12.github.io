@@ -23,11 +23,11 @@ h2{
 }
 
 p{
-    width: 20%;
+    width: 60%;
     margain: 40px;
     padding: 5px 5px;
     color: #a08dc0;
-    border: 5px dotted #3c2d4d;
+    border: 5px solid #3c2d4d;
     text-align: center;
 }
 
