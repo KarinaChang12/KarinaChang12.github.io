@@ -1,16 +1,17 @@
 
 body{
-    background-color: #CD9FCC
+    background-color: #4e4162
 }
 h1{
    text-align: center; 
    font-family:'Times New Roman', Times, serif;
-   color: #4439ab;
-   border: rgb(87, 54, 136);
+   color: #8a82dd;
+   border: rgb(109, 80, 151);
    border-style: dotted;
-   border-radius: 10px;
+   border-radius: 100px;
     border-width: 10px;
    padding: 20px;
+    width: 500px;
    
 }
 h2{
